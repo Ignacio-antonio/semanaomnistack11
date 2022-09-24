@@ -1,11 +1,13 @@
-## Projeto em desenvolvimento
+## Aplicação para ongs
 
-Back End feito para uma aplicação para Ongs feito através da semana omnistack 11.
-Por enquanto só o backend finalizado.
+![preview](github/preview.png)
+
+Aplicação para Ongs feito através da semana omnistack 11.
 
 ## Techs:
 - NodeJS
 - ReactJS
+- Git e Github
 
 # Contato:
 yignaciosd@gmail.com
